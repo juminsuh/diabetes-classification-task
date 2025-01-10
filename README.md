@@ -30,7 +30,7 @@ model = LGBMClassifier(
 
 ## ✅ **Result**
 
-### **Confusion Matrix **
+### Confusion Matrix 
 
 ||predicted 0|predicted 1|
 |------|---|---|
